@@ -1,0 +1,7 @@
+Artist{artistName='Prince', dateOfBirth=1958-04-21, city='Minneapolis', country='USA'}
+Artist{artistName='Lil Yachty', dateOfBirth=1997-08-23, city='Mableton', country='USA'}
+Artist{artistName='Morten Abel', dateOfBirth=1962-10-15, city='Bodø', country='Norge'}
+Artist{artistName='21 Savage', dateOfBirth=1992-10-22, city='London', country='England'}
+Artist{artistName='Cardi B', dateOfBirth=1992-10-11, city='New York', country='USA'}
+Artist{artistName='Jarle Bernhoft', dateOfBirth=1976-06-21, city='Nittedal', country='Norge'}
+Artist{artistName='Missy Elliott', dateOfBirth=1971-07-01, city='Portsmouth', country='USA'}
